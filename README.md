@@ -11,15 +11,13 @@
   ![WotLK 3.3.5a](https://img.shields.io/badge/Client-WotLK%203.3.5a-blue.svg)
   ![Status](https://img.shields.io/badge/Status-Purrfect-green.svg)
 
-  <img src="assets/logo.png" alt="Hissteria Logo" >
+  <img src="assets/logo.png" alt="Hissteria Logo" width="250">
 
 </div>
 
-> **The Purrfect PvP Enemy Grid for WotLK 3.3.5a** ⚔️😺  
-> *Track targets, spot healers, and hunt them down with style. xoxo :3*
+<br>
 
-![WotLK 3.3.5a](https://img.shields.io/badge/Client-WotLK%203.3.5a-blue.svg)
-![Status](https://img.shields.io/badge/Status-Purrfect-green.svg)
+
 
 **Hissteria** is a modern, lightweight Battleground Enemy Grid addon designed for **World of Warcraft: Wrath of the Lich King**. It gives you a clean, "Gladius-style" overview of the entire enemy team, letting you target, focus, and track cooldowns instantly.
 
