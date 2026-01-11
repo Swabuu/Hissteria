@@ -1,0 +1,32 @@
+## Interface: 30300
+## Title: |cFFFF6600Hissteria|r |cFFAAAAAABG Enemy Grid|r
+## Notes: Premium PvP Enemy Grid for WotLK.
+## Author: Purr
+## Version: 1.0.0
+## SavedVariables: HissteriaDB
+## SavedVariablesPerCharacter: HissteriaCharDB
+
+# Data
+Data\ClassData.lua
+Data\SpecIcons.lua
+Data\SpecSpells.lua
+Data\TrinketSpells.lua
+Data\HealerSpecs.lua
+
+# Config
+Config\Defaults.lua
+
+# Core
+Core\Utils.lua
+Core\Init.lua
+Core\Events.lua
+Core\SlashCommands.lua
+
+# Modules
+Modules\MockMode.lua
+Modules\EnemyBar.lua
+Modules\Grid.lua
+Modules\Scanner.lua
+Modules\CombatLog.lua
+Modules\SpecDetector.lua
+Modules\CommandBar.lua
