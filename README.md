@@ -1,4 +1,19 @@
-# 🐾 Hissteria
+<div align="center">
+
+<img src="assets/cuddle.png" alt="Hissteria Logo">
+
+  
+  # 🐾 Hissteria
+
+  > **The Purrfect PvP Enemy Grid for WotLK 3.3.5a** ⚔️😺  
+  > *Track targets, spot healers, and hunt them down with style. xoxo :3*
+
+  ![WotLK 3.3.5a](https://img.shields.io/badge/Client-WotLK%203.3.5a-blue.svg)
+  ![Status](https://img.shields.io/badge/Status-Purrfect-green.svg)
+
+  <img src="assets/logo.png" alt="Hissteria Logo" >
+
+</div>
 
 > **The Purrfect PvP Enemy Grid for WotLK 3.3.5a** ⚔️😺  
 > *Track targets, spot healers, and hunt them down with style. xoxo :3*
